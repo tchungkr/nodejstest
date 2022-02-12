@@ -1,8 +1,3 @@
-github : 먼저 github.com/tchungkr 에 nodejstest 레포지토리 준비
-git init
-README.md 를 vscode에서 작성
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/tchungkr/nodejstest.git
-git push -u origin main
+객체의 원형을  프로토타입이라 부른다. 
+자바에서는 이를 클래스로 표현한다. 
+이는 new 연산자를 이용하여 객체로 만들어진다. 
